@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=F8BBD0&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Next.js+%26+TypeScript;WordPress+Developer;Open+to+Work"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=F8BBD0&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+Developer;Next.js+%26+TypeScript;WordPress+Developer;Open+to+Work"/>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="180" alt="Developer coding" />
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="160" alt="Developer coding" />
 
 </td>
 
@@ -52,60 +52,31 @@
 </p>
 
 
-<h2 align="center">📂 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://redstream-enitha-s-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/🩸_Blood_Bank_System-EF93C4?style=for-the-badge" />
-  </a>
-  <a href="https://enithachandrasekaran.github.io/enitha-portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-F8BBD0?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://github.com/Enithachandrasekaran/react-ui-components">
-    <img src="https://img.shields.io/badge/⚛️_React_UI-FF69B4?style=for-the-badge" />
-  </a>
-</p>
-
-
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Enithachandrasekaran&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
-
+  <img src="https://streak-stats.demolab.com/?user=Enithachandrasekaran&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
 </p>
-
-
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enithachandrasekaran&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enithachandrasekaran&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
-
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Enithachandrasekaran&show_icons=true&theme=pink&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enithachandrasekaran&layout=compact&theme=pink&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0" />
-</p>
 
 
 <h2 align="center"> 🐍 Contribution Graph </h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enithachandrasekaran/Enithachandrasekaran/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Enithachandrasekaran/Enithachandrasekaran/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github.com/Enithachandrasekaran/Enithachandrasekaran/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 <!--
 To enable the snake animation:
 
-1. Add the workflow file: .github/workflows/snake.yml
+1. Create a GitHub Action in this repository.
 2. Use Platane/snk to generate the SVG every day.
-3. It will commit into: output/github-contribution-grid-snake.svg
+3. Commit the generated file into:
+   output/github-contribution-grid-snake.svg
 -->
 
 
