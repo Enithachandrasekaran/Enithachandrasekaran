@@ -1,5 +1,8 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=200&section=header&text=Enitha%20Chandrasekaran&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=React.js%20Developer&descAlignY=55&descSize=18"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enithachandrasekaran/Enithachandrasekaran/main/art/header-dark.png">
+    <img src="https://raw.githubusercontent.com/Enithachandrasekaran/Enithachandrasekaran/main/art/header-light.png" alt="Enitha Banner" width="100%">
+  </picture>
 </p>
 
 <h1 align="center">
