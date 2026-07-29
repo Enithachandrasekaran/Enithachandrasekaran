@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enithachandrasekaran/Enithachandrasekaran/main/art/header-dark.png">
-    <img src="https://raw.githubusercontent.com/Enithachandrasekaran/Enithachandrasekaran/main/art/header-light.png" alt="Enitha Banner" width="100%">
+    <img src="https://raw.githubusercontent.com/Enithachandrasekaran/Enithachandrasekaran/main/art/header-light.png" alt="Enitha Banner" width="1500" height="500">
   </picture>
 </p>
 
