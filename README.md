@@ -1,136 +1,137 @@
-# Hi 👋, I'm Enitha
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=200&section=header&text=Enitha%20Chandrasekaran&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js&descAlignY=55&descSize=16"/>
+</p>
 
-### Frontend Developer | React Developer | WordPress Developer
+<h1 align="center">
+  Hey there, I'm <span style="color:#EF93C4;">Enitha</span>
+</h1>
 
-I am a Frontend Developer with 1.5 years of experience in WordPress development and hands-on experience building modern web applications using React.js, Next.js, TypeScript, and Redux Toolkit.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=F8BBD0&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Next.js+%26+TypeScript;WordPress+Developer;Open+to+Work"/>
+</p>
 
-🌟 Currently working on a Blood Bank Management System that helps manage donors, blood inventory, hospital requests, screening processes, and role-based user access.
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Enithachandrasekaran?style=for-the-badge&logo=github&label=Followers&color=EF93C4" />
+  <img src="https://img.shields.io/github/stars/Enithachandrasekaran?style=for-the-badge&logo=github&label=Stars&color=EF93C4" />
+  <img src="https://komarev.com/ghpvc/?username=Enithachandrasekaran&style=for-the-badge&color=EF93C4"/>
+</p>
 
----
 
-## 🚀 About Me
 
-* 💼 1.5 Years Experience as a WordPress Developer
-* ⚛️ React.js & Next.js Developer
-* 🌱 Learning Advanced Frontend Development
-* 🔥 Building Healthcare Management Applications
-* 🎯 Open to Frontend Developer and React Developer Opportunities
-* 📍 Madurai, Tamil Nadu, India
+<h2 align="center">👩‍💻 About Me</h2>
 
----
+<table align="center">
+<tr>
 
-## 🛠️ Tech Stack
+<td width="65%" valign="top">
 
-### Frontend
+- 💻 Frontend Developer with 1.5 years of experience in WordPress & modern React apps.
+- ⚛️ Building with React.js, Next.js, TypeScript & Redux Toolkit.
+- 🌱 Learning Advanced Frontend Architecture & GraphQL.
+- 🩸 Currently building a Blood Bank Management System.
+- 🎯 Open to Frontend Developer and React Developer roles.
+- 📍 Based in Madurai, Tamil Nadu, India.
+- ✨ Always crafting clean, user-friendly web experiences.
 
-* React.js
-* Next.js
-* TypeScript
-* JavaScript (ES6+)
-* HTML5
-* CSS3
-* Tailwind CSS
-* Bootstrap
+</td>
 
-### State Management
+<td width="35%" align="center" valign="middle">
 
-* Redux Toolkit
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="180" alt="Developer coding" />
 
-### UI Libraries
+</td>
 
-* Radix UI
-* AG Grid
+</tr>
+</table>
 
-### Forms & Validation
 
-* Formik
-* Yup
+<h2 align="center">💻 Tech Stack</h2>
 
-### API Integration
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,wordpress,nodejs,graphql,git,github,vscode,figma,npm,postman&perline=9"/>
+</p>
 
-* Axios
-* REST APIs
-* GraphQL
 
-### Tools
+<h2 align="center">📂 Featured Projects</h2>
 
-* Git
-* GitHub
-* VS Code
-* Figma
+<p align="center">
+  <a href="https://redstream-enitha-s-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/🩸_Blood_Bank_System-EF93C4?style=for-the-badge" />
+  </a>
+  <a href="https://enithachandrasekaran.github.io/enitha-portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-F8BBD0?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://github.com/Enithachandrasekaran/react-ui-components">
+    <img src="https://img.shields.io/badge/⚛️_React_UI-FF69B4?style=for-the-badge" />
+  </a>
+</p>
 
----
 
-## 📂 Featured Projects
+<h2 align="center">📈 GitHub Analytics</h2>
 
-### 🩸 Blood Bank Management System
+<p align="center">
 
-A comprehensive healthcare management platform designed to automate blood bank operations.
+<img src="https://streak-stats.demolab.com?user=Enithachandrasekaran&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 
-#### Key Features
+</p>
 
-* Authentication & Authorization
-* Role-Based Access Control
-* Donor Management
-* Blood Inventory Tracking
-* Hospital Blood Requests
-* Screening & Lab Testing
-* Dashboard Analytics
-* Blood Camp Management
-* QR Code Generation
-* Report Export
-* Donation Reminders
 
-#### Technologies Used
 
-Next.js • React • TypeScript • Redux Toolkit • GraphQL • REST API • Tailwind CSS • AG Grid • Formik • Yup
+<p align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enithachandrasekaran&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
 
-### 🌐 Portfolio Website
+</p>
 
-Showcasing my projects, technical skills, and development experience.
 
-Portfolio:
-https://enithachandrasekaran.github.io/enitha-portfolio/
 
----
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Enithachandrasekaran&show_icons=true&theme=pink&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enithachandrasekaran&layout=compact&theme=pink&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0" />
+</p>
 
-### ✅ React Todo App
 
-Task management application built using React Hooks.
+<h2 align="center"> 🐍 Contribution Graph </h2>
 
-### ✅ React CRUD Application
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Enithachandrasekaran/Enithachandrasekaran/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
 
-Create, Read, Update, and Delete operations using React.
+<!--
+To enable the snake animation:
 
----
+1. Add the workflow file: .github/workflows/snake.yml
+2. Use Platane/snk to generate the SVG every day.
+3. It will commit into: output/github-contribution-grid-snake.svg
+-->
 
-## 📈 Current Focus
 
-* Advanced React Development
-* Next.js Applications
-* TypeScript Best Practices
-* GraphQL Integration
-* Frontend Architecture
+<h2 align="center">🌐 Let's Connect</h2>
 
----
+<p align="center">
 
-## 📫 Connect With Me
+<a href="https://www.linkedin.com/in/enitha-c-2174a6230">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-LinkedIn:
-[www.linkedin.com/in/enitha-c-2174a6230](http://www.linkedin.com/in/enitha-c-2174a6230)
+<a href="https://enithachandrasekaran.github.io/enitha-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-EF93C4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-Portfolio:
-https://enithachandrasekaran.github.io/enitha-portfolio/
+<a href="https://github.com/Enithachandrasekaran">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-GitHub:
-https://github.com/Enithachandrasekaran
+<a href="https://redstream-enitha-s-projects.vercel.app/">
+<img src="https://img.shields.io/badge/RedStream_App-FF69B4?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</a>
 
----
+</p>
 
-## 🎯 Career Goal
 
-To contribute as a Frontend Developer or React Developer by building scalable, user-friendly web applications and continuously improving my technical expertise.
-
-⭐ Thanks for visiting my profile!
+<p align="center">
+See you in the next commit 🌸
+</p>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=140&section=footer"/>
+</p>
