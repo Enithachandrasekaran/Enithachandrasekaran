@@ -1,5 +1,8 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=200&section=header&text=Enitha%20Chandrasekaran&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js&descAlignY=55&descSize=16"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enithachandrasekaran/Enithachandrasekaran/main/art/header-dark.png">
+    <img src="https://raw.githubusercontent.com/Enithachandrasekaran/Enithachandrasekaran/main/art/header-light.png" alt="Enitha Chandrasekaran Banner" width="100%">
+  </picture>
 </p>
 
 <h1 align="center">
@@ -55,11 +58,11 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Enithachandrasekaran&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Enithachandrasekaran/Enithachandrasekaran/main/art/streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enithachandrasekaran&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true" alt="Contribution Activity Graph" />
+  <img src="https://raw.githubusercontent.com/Enithachandrasekaran/Enithachandrasekaran/main/art/activity.svg" alt="Contribution Activity Graph" />
 </p>
 
 
@@ -67,7 +70,7 @@
 <h2 align="center"> 🐍 Contribution Graph </h2>
 
 <p align="center">
-  <img src="https://github.com/Enithachandrasekaran/Enithachandrasekaran/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Enithachandrasekaran/Enithachandrasekaran/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 <!--

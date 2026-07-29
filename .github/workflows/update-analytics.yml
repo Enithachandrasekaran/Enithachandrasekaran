@@ -1,0 +1,40 @@
+name: Update Analytics Images
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-analytics.yml"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download streak + activity SVGs
+        run: |
+          mkdir -p art
+          curl -fsSL --retry 5 --retry-delay 5 \
+            "https://streak-stats.demolab.com/?user=Enithachandrasekaran&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" \
+            -o art/streak.svg
+          curl -fsSL --retry 5 --retry-delay 5 \
+            "https://github-readme-activity-graph.vercel.app/graph?username=Enithachandrasekaran&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true" \
+            -o art/activity.svg
+          ls -la art/streak.svg art/activity.svg
+
+      - name: Commit updated analytics images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add art/streak.svg art/activity.svg
+          git diff --staged --quiet || git commit -m "chore: refresh GitHub analytics images"
+          git push
